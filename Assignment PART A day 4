@@ -1,0 +1,15 @@
+Part A: 
+
+1. When analyzing a numerical dataset, how does a box plot help identify outliers compared to a histogram?
+A box plot helps identify outliers by showing the distribution of numerical data using the median, quartiles, and interquartile range (IQR). Values that fall significantly below or above the normal range are displayed as individual points, making potential outliers easy to spot.
+A histogram, on the other hand, groups data into ranges called bins and shows how frequently values occur.
+It can help us understand the overall distribution of the data, but individual outliers may be less obvious, especially when they are far from the main distribution
+
+Box plots are useful during exploratory data analysis (EDA) because they can help detect unusual values that may affect the performance of a model.
+for example; If most patients have a platelet count between 150 and 400, but one patient has 1,200, a box plot would likely show 1,200 as an outlier.
+
+2. What does a Pearson correlation coefficient close to +1.0 or -1.0 indicate between two features in a dataset?
+A Pearson correlation coefficient close to +1.0 indicates a strong positive linear relationship,
+meaning both features tend to increase together. 
+A coefficient close to -1.0 indicates a strong negative linear relationship,
+meaning one feature tends to increase as the other decreases.
