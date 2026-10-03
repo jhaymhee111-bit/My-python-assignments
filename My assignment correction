@@ -1,0 +1,10 @@
+Part A
+1.The box in a box plot represents the interquartile  range l(IQR) which is IQR=Q3-Q1
+Whereby numerical values are split into q1, q2, and q3
+Outliers are said to be values lying outside the upper and lower limit, 
+because the box covers the middle 50% of the days making it a strong measure of spread. 
+While histogram focuses only in showing frequency and distribution of values resistance to certain values.
+
+2. A Pearson correlation coefficient close to +1.0 indicates a positive linear relationship
+meaning that both features tend to increase together.
+ And also a pearson coefficient close to -1.0 indicates  a negative relationship which makes both features in a dataset to decrease together.
